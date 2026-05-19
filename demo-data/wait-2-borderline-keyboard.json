@@ -1,0 +1,57 @@
+{
+  "id": "demo-wait-002",
+  "sourceUrl": "https://www.flipkart.com/fake-kb/p/itmwait002",
+  "product": {
+    "title": "DREVO Excalibur 84-Key TKL Mechanical Keyboard RGB Backlit Blue Switch",
+    "brand": "DREVO",
+    "images": [],
+    "rating_avg": 3.8,
+    "rating_count": 2109,
+    "source_site": "flipkart.com"
+  },
+  "verdict": "WAIT",
+  "verdictReason": "Pricing is fair but mixed reviews include durability complaints and seller has limited history.",
+  "insights": [
+    "Price ₹4,499 is competitive vs Keychron C1 at ₹4,599, so no pricing red flags",
+    "120+ reviews mention key-switch failure within 6 months — potential quality concern",
+    "Seller established 5 months ago with 3.9 rating — not enough track record for ₹4K+ purchase"
+  ],
+  "trustScore": 62,
+  "signals": {
+    "priceReality": 22,
+    "reviewAuthenticity": 15,
+    "sellerTrust": 10,
+    "ratingDistribution": 10,
+    "returnPolicy": 8
+  },
+  "priceData": {
+    "current": 4499,
+    "mrp": 6999,
+    "currency": "INR",
+    "isFakeDiscount": false,
+    "discountPct": 36,
+    "competitors": [
+      { "site": "Amazon", "url": "#", "title": "Keychron C1 TKL Mechanical Keyboard", "price": 4599, "similarity_score": 0.83 },
+      { "site": "Amazon", "url": "#", "title": "Zebronics MAX PRO Mechanical Keyboard", "price": 3999, "similarity_score": 0.79 }
+    ]
+  },
+  "reviewData": {
+    "totalReviews": 2109,
+    "genericPhrasePct": 28,
+    "burstDetected": false,
+    "burstPct": 11,
+    "suspiciousNamePct": 14,
+    "sampleReviews": [
+      { "text": "Good keyboard for the price. But my 'A' key stopped working after 4 months of use.", "rating": 2, "reviewer_name": "Raj K.", "timestamp": "2024-09-15T11:00:00Z" },
+      { "text": "RGB is vibrant. Typing feel is satisfying. Hope it lasts long.", "rating": 4, "reviewer_name": "Pooja V.", "timestamp": "2024-10-22T15:00:00Z" }
+    ]
+  },
+  "sellerData": {
+    "name": "TechKeys India",
+    "age_days": 158,
+    "rating": 3.9,
+    "total_reviews": 4821,
+    "return_policy_flags": ["manufacturing defects only"]
+  },
+  "auditedAt": "2025-01-10T15:00:00Z"
+}

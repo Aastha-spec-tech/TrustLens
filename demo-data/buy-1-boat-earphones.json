@@ -1,0 +1,58 @@
+{
+  "id": "demo-buy-001",
+  "sourceUrl": "https://www.amazon.in/dp/B0BOAT001",
+  "product": {
+    "title": "boAt Rockerz 450 Bluetooth On-Ear Headphones with Mic, 15H Playtime",
+    "brand": "boAt",
+    "images": [],
+    "rating_avg": 4.1,
+    "rating_count": 42318,
+    "source_site": "amazon.in"
+  },
+  "verdict": "BUY",
+  "verdictReason": "Established brand, verified pricing, and diverse review distribution across 42K ratings.",
+  "insights": [
+    "Price ₹1,299 is within 5% of Flipkart and boAt's own website — no price manipulation",
+    "Review spread shows natural distribution: 61% five-star, 19% four-star, 9% three-star",
+    "Seller 'Appario Retail' has 4+ year history with 98% positive ratings"
+  ],
+  "trustScore": 87,
+  "signals": {
+    "priceReality": 25,
+    "reviewAuthenticity": 20,
+    "sellerTrust": 20,
+    "ratingDistribution": 15,
+    "returnPolicy": 15
+  },
+  "priceData": {
+    "current": 1299,
+    "mrp": 2990,
+    "currency": "INR",
+    "isFakeDiscount": false,
+    "discountPct": 57,
+    "competitors": [
+      { "site": "Flipkart", "url": "#", "title": "boAt Rockerz 450 Bluetooth Headphones", "price": 1299, "similarity_score": 1.0 },
+      { "site": "boAt Website", "url": "#", "title": "Rockerz 450 Official", "price": 1349, "similarity_score": 1.0 }
+    ]
+  },
+  "reviewData": {
+    "totalReviews": 42318,
+    "genericPhrasePct": 18,
+    "burstDetected": false,
+    "burstPct": 4,
+    "suspiciousNamePct": 9,
+    "sampleReviews": [
+      { "text": "Sound quality is decent for the price. Bass is punchy but mids are slightly recessed. Good for daily commute.", "rating": 4, "reviewer_name": "Prashant K.", "timestamp": "2024-09-20T11:00:00Z" },
+      { "text": "Battery lasts about 12-13 hours in my usage. Comfortable fit. Mic is ok for calls.", "rating": 4, "reviewer_name": "Ananya S.", "timestamp": "2024-10-05T14:30:00Z" },
+      { "text": "Had some issues with Bluetooth dropping initially, sorted after firmware update.", "rating": 3, "reviewer_name": "Vikram R.", "timestamp": "2024-11-12T09:15:00Z" }
+    ]
+  },
+  "sellerData": {
+    "name": "Appario Retail Private Ltd",
+    "age_days": 1642,
+    "rating": 4.6,
+    "total_reviews": 2841922,
+    "return_policy_flags": []
+  },
+  "auditedAt": "2025-01-10T11:00:00Z"
+}

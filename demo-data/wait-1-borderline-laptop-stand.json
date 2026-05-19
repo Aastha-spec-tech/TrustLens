@@ -1,0 +1,57 @@
+{
+  "id": "demo-wait-001",
+  "sourceUrl": "https://www.amazon.in/dp/B0WAIT001",
+  "product": {
+    "title": "ZEROGRID Aluminum Laptop Stand Adjustable 6 Angles, Compatible MacBook/Dell/HP",
+    "brand": "ZEROGRID",
+    "images": [],
+    "rating_avg": 4.2,
+    "rating_count": 934,
+    "source_site": "amazon.in"
+  },
+  "verdict": "WAIT",
+  "verdictReason": "Minor-brand seller at fair price but return policy gaps and review burst warrant caution.",
+  "insights": [
+    "Price matches competitor median but brand has no verifiable history outside Amazon",
+    "42% of reviews posted in a single week post-launch — possible seeded reviews",
+    "Return policy mentions 'manufacturing defects only' which limits coverage"
+  ],
+  "trustScore": 58,
+  "signals": {
+    "priceReality": 20,
+    "reviewAuthenticity": 10,
+    "sellerTrust": 12,
+    "ratingDistribution": 11,
+    "returnPolicy": 8
+  },
+  "priceData": {
+    "current": 1799,
+    "mrp": 3499,
+    "currency": "INR",
+    "isFakeDiscount": false,
+    "discountPct": 49,
+    "competitors": [
+      { "site": "Flipkart", "url": "#", "title": "Generic Aluminum Laptop Stand Adjustable", "price": 1699, "similarity_score": 0.85 },
+      { "site": "Amazon", "url": "#", "title": "AmazonBasics Laptop Stand", "price": 1999, "similarity_score": 0.81 }
+    ]
+  },
+  "reviewData": {
+    "totalReviews": 934,
+    "genericPhrasePct": 39,
+    "burstDetected": true,
+    "burstPct": 42,
+    "suspiciousNamePct": 22,
+    "sampleReviews": [
+      { "text": "Sturdy stand. Holds my MacBook Pro well. Assembly took 5 mins.", "rating": 5, "reviewer_name": "Mehul D.", "timestamp": "2024-11-03T10:00:00Z" },
+      { "text": "Good quality for the price. Might wobble slightly at max height.", "rating": 4, "reviewer_name": "Sunita B.", "timestamp": "2024-11-04T14:00:00Z" }
+    ]
+  },
+  "sellerData": {
+    "name": "ZeroGrid Official",
+    "age_days": 94,
+    "rating": 4.1,
+    "total_reviews": 1204,
+    "return_policy_flags": ["manufacturing defects only"]
+  },
+  "auditedAt": "2025-01-10T14:00:00Z"
+}

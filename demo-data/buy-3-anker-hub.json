@@ -1,0 +1,57 @@
+{
+  "id": "demo-buy-003",
+  "sourceUrl": "https://www.amazon.in/dp/B0ANKR003",
+  "product": {
+    "title": "Anker 341 USB-C Hub (7-in-1), 4K HDMI, 100W PD, 5Gbps Data",
+    "brand": "Anker",
+    "images": [],
+    "rating_avg": 4.4,
+    "rating_count": 8231,
+    "source_site": "amazon.in"
+  },
+  "verdict": "BUY",
+  "verdictReason": "Reputable brand, fair market price, and healthy review distribution over 18 months.",
+  "insights": [
+    "Price ₹3,499 is within 3% of Anker's direct store and Flipkart",
+    "Reviews spread over 18 months show genuine usage patterns including specific compatibility issues",
+    "18-month seller with 4.5 rating and standard 30-day return policy"
+  ],
+  "trustScore": 83,
+  "signals": {
+    "priceReality": 24,
+    "reviewAuthenticity": 19,
+    "sellerTrust": 18,
+    "ratingDistribution": 13,
+    "returnPolicy": 15
+  },
+  "priceData": {
+    "current": 3499,
+    "mrp": 4999,
+    "currency": "INR",
+    "isFakeDiscount": false,
+    "discountPct": 30,
+    "competitors": [
+      { "site": "Flipkart", "url": "#", "title": "Anker 341 7-in-1 USB-C Hub", "price": 3599, "similarity_score": 1.0 },
+      { "site": "Anker Store", "url": "#", "title": "Anker 341 A8346", "price": 3499, "similarity_score": 1.0 }
+    ]
+  },
+  "reviewData": {
+    "totalReviews": 8231,
+    "genericPhrasePct": 14,
+    "burstDetected": false,
+    "burstPct": 3,
+    "suspiciousNamePct": 7,
+    "sampleReviews": [
+      { "text": "Works well with MacBook Air M2. HDMI output hits 4K60. SD card slot is a nice bonus.", "rating": 5, "reviewer_name": "Nikhil G.", "timestamp": "2024-07-22T12:00:00Z" },
+      { "text": "PD passthrough drops to ~85W under load but that's fine for my laptop. Build feels premium.", "rating": 4, "reviewer_name": "Ashwin P.", "timestamp": "2024-10-11T09:00:00Z" }
+    ]
+  },
+  "sellerData": {
+    "name": "Anker Innovations India",
+    "age_days": 548,
+    "rating": 4.5,
+    "total_reviews": 91240,
+    "return_policy_flags": []
+  },
+  "auditedAt": "2025-01-10T13:00:00Z"
+}

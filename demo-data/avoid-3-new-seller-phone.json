@@ -1,0 +1,57 @@
+{
+  "id": "demo-avoid-003",
+  "sourceUrl": "https://www.amazon.in/dp/B0FAKE003",
+  "product": {
+    "title": "Refurbished Samsung Galaxy S23 256GB — Grade A+, 6 Month Warranty",
+    "brand": "Samsung",
+    "images": [],
+    "rating_avg": 4.7,
+    "rating_count": 89,
+    "source_site": "amazon.in"
+  },
+  "verdict": "AVOID",
+  "verdictReason": "New seller selling high-value refurbished phone with no-return policy and inflated rating.",
+  "insights": [
+    "Seller 'TechRenewalsIN' is only 6 days old — no track record for high-value electronics",
+    "Price ₹24,999 is 40% below competitor median (₹41,500) — risk of counterfeit or misrepresented grade",
+    "89 reviews all posted within 3 days of listing with 97% five-star ratings"
+  ],
+  "trustScore": 8,
+  "signals": {
+    "priceReality": 2,
+    "reviewAuthenticity": 1,
+    "sellerTrust": 0,
+    "ratingDistribution": 2,
+    "returnPolicy": 0
+  },
+  "priceData": {
+    "current": 24999,
+    "mrp": 79999,
+    "currency": "INR",
+    "isFakeDiscount": false,
+    "discountPct": 69,
+    "competitors": [
+      { "site": "Cashify", "url": "#", "title": "Samsung Galaxy S23 256GB Grade A Refurbished", "price": 42000, "similarity_score": 0.97 },
+      { "site": "Flipkart Renewed", "url": "#", "title": "Samsung Galaxy S23 256GB Renewed", "price": 40999, "similarity_score": 0.95 }
+    ]
+  },
+  "reviewData": {
+    "totalReviews": 89,
+    "genericPhrasePct": 82,
+    "burstDetected": true,
+    "burstPct": 100,
+    "suspiciousNamePct": 79,
+    "sampleReviews": [
+      { "text": "Awesome product. Like new condition. Worth every penny.", "rating": 5, "reviewer_name": "buyer8812", "timestamp": "2025-01-04T10:00:00Z" },
+      { "text": "Excellent. Fast delivery. Highly recommend.", "rating": 5, "reviewer_name": "buyer8813", "timestamp": "2025-01-04T10:12:00Z" }
+    ]
+  },
+  "sellerData": {
+    "name": "TechRenewalsIN",
+    "age_days": 6,
+    "rating": 0,
+    "total_reviews": 0,
+    "return_policy_flags": ["no returns", "damaged in transit not covered"]
+  },
+  "auditedAt": "2025-01-10T10:00:00Z"
+}

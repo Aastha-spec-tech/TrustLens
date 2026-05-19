@@ -1,0 +1,57 @@
+{
+  "id": "demo-buy-002",
+  "sourceUrl": "https://www.amazon.in/dp/B0SAM002",
+  "product": {
+    "title": "Samsung 25W Super Fast Charging Wall Charger USB-C PD (Adapter Only)",
+    "brand": "Samsung",
+    "images": [],
+    "rating_avg": 4.3,
+    "rating_count": 18904,
+    "source_site": "amazon.in"
+  },
+  "verdict": "BUY",
+  "verdictReason": "Official Samsung listing with consistent pricing across all major platforms.",
+  "insights": [
+    "Sold directly by Samsung India official store — zero seller risk",
+    "Price ₹999 matches Samsung.com and Croma within 2%",
+    "Reviews show expected mix including critical feedback about cable not included"
+  ],
+  "trustScore": 91,
+  "signals": {
+    "priceReality": 25,
+    "reviewAuthenticity": 22,
+    "sellerTrust": 20,
+    "ratingDistribution": 15,
+    "returnPolicy": 15
+  },
+  "priceData": {
+    "current": 999,
+    "mrp": 1499,
+    "currency": "INR",
+    "isFakeDiscount": false,
+    "discountPct": 33,
+    "competitors": [
+      { "site": "Samsung.com", "url": "#", "title": "Samsung 25W Travel Adapter", "price": 1049, "similarity_score": 1.0 },
+      { "site": "Croma", "url": "#", "title": "Samsung 25W USB-C Fast Charger", "price": 999, "similarity_score": 0.98 }
+    ]
+  },
+  "reviewData": {
+    "totalReviews": 18904,
+    "genericPhrasePct": 11,
+    "burstDetected": false,
+    "burstPct": 2,
+    "suspiciousNamePct": 6,
+    "sampleReviews": [
+      { "text": "Works perfectly with my S24. Charges from 0 to 100 in about 55 mins. Build quality is solid.", "rating": 5, "reviewer_name": "Deepak M.", "timestamp": "2024-08-14T10:00:00Z" },
+      { "text": "Cable not included which is annoying at this price. But the charger itself is reliable.", "rating": 3, "reviewer_name": "Ria T.", "timestamp": "2024-09-03T16:00:00Z" }
+    ]
+  },
+  "sellerData": {
+    "name": "Samsung India Electronics Pvt Ltd",
+    "age_days": 2891,
+    "rating": 4.4,
+    "total_reviews": 4129000,
+    "return_policy_flags": []
+  },
+  "auditedAt": "2025-01-10T12:00:00Z"
+}

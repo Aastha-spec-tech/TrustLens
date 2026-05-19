@@ -1,0 +1,59 @@
+{
+  "id": "demo-avoid-001",
+  "_matchKeyword": "amzn.in/d/fakewatch",
+  "sourceUrl": "https://www.amazon.in/dp/B0FAKE001",
+  "product": {
+    "title": "CRONOS Premium Quartz Watch for Men — Stainless Steel, Waterproof, Luxury Design",
+    "brand": "CRONOS",
+    "images": [],
+    "rating_avg": 4.9,
+    "rating_count": 1247,
+    "source_site": "amazon.in"
+  },
+  "verdict": "AVOID",
+  "verdictReason": "Fake ₹8,999 MRP anchoring on a ₹599 watch selling at competitor median price.",
+  "insights": [
+    "MRP of ₹8,999 is artificially inflated — identical watches sell for ₹599–₹650 across Flipkart and Meesho",
+    "1,100+ five-star reviews posted within a 5-day burst window shortly after listing",
+    "Seller 'CronosOfficial' created 18 days ago with zero prior sales history"
+  ],
+  "trustScore": 14,
+  "signals": {
+    "priceReality": 5,
+    "reviewAuthenticity": 0,
+    "sellerTrust": 2,
+    "ratingDistribution": 2,
+    "returnPolicy": 5
+  },
+  "priceData": {
+    "current": 599,
+    "mrp": 8999,
+    "currency": "INR",
+    "isFakeDiscount": true,
+    "discountPct": 93,
+    "competitors": [
+      { "site": "Flipkart", "url": "#", "title": "Generic Quartz Watch Stainless Steel", "price": 649, "similarity_score": 0.91 },
+      { "site": "Meesho", "url": "#", "title": "Men's Quartz Watch Premium Look", "price": 589, "similarity_score": 0.88 }
+    ]
+  },
+  "reviewData": {
+    "totalReviews": 1247,
+    "genericPhrasePct": 78,
+    "burstDetected": true,
+    "burstPct": 89,
+    "suspiciousNamePct": 64,
+    "sampleReviews": [
+      { "text": "Very nice product. Good quality. Value for money. Highly recommend.", "rating": 5, "reviewer_name": "User7823", "timestamp": "2024-11-15T10:23:00Z" },
+      { "text": "Best product ever. Fast delivery. Good packaging.", "rating": 5, "reviewer_name": "Customer4491", "timestamp": "2024-11-16T14:11:00Z" },
+      { "text": "Excellent product. Five stars. Worth it.", "rating": 5, "reviewer_name": "b9234kx", "timestamp": "2024-11-17T09:05:00Z" }
+    ]
+  },
+  "sellerData": {
+    "name": "CronosOfficial",
+    "age_days": 18,
+    "rating": 0,
+    "total_reviews": 0,
+    "return_policy_flags": ["no returns after 24 hours", "damaged in transit not covered"]
+  },
+  "auditedAt": "2025-01-10T08:00:00Z"
+}

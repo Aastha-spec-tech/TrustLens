@@ -1,0 +1,57 @@
+{
+  "id": "demo-avoid-002",
+  "sourceUrl": "https://www.flipkart.com/fake-earbuds-listing/p/itmfake002",
+  "product": {
+    "title": "SoundBlast Pro TWS Earbuds 48H Playtime Active Noise Cancellation ENC",
+    "brand": "SoundBlast",
+    "images": [],
+    "rating_avg": 4.8,
+    "rating_count": 3421,
+    "source_site": "flipkart.com"
+  },
+  "verdict": "AVOID",
+  "verdictReason": "3,400+ reviews are 94% bot-generated; actual product specs differ from listing description.",
+  "insights": [
+    "94% of reviews use identical generic phrases — consistent with coordinated bot activity",
+    "Product claims 48H playtime; competitor specs and user photos show a 4H device",
+    "No-returns policy combined with new seller is a classic fulfillment scam pattern"
+  ],
+  "trustScore": 11,
+  "signals": {
+    "priceReality": 14,
+    "reviewAuthenticity": 0,
+    "sellerTrust": 2,
+    "ratingDistribution": 0,
+    "returnPolicy": 0
+  },
+  "priceData": {
+    "current": 1299,
+    "mrp": 4999,
+    "currency": "INR",
+    "isFakeDiscount": false,
+    "discountPct": 74,
+    "competitors": [
+      { "site": "Amazon", "url": "#", "title": "Generic TWS Earbuds OEM", "price": 899, "similarity_score": 0.82 }
+    ]
+  },
+  "reviewData": {
+    "totalReviews": 3421,
+    "genericPhrasePct": 94,
+    "burstDetected": true,
+    "burstPct": 97,
+    "suspiciousNamePct": 71,
+    "sampleReviews": [
+      { "text": "Good quality earbuds. Value for money. Excellent product.", "rating": 5, "reviewer_name": "User1234", "timestamp": "2024-10-01T08:00:00Z" },
+      { "text": "Nice product. Highly recommend. Five stars.", "rating": 5, "reviewer_name": "User1235", "timestamp": "2024-10-01T08:14:00Z" },
+      { "text": "Very nice. Good packaging. Satisfied.", "rating": 5, "reviewer_name": "User1236", "timestamp": "2024-10-01T08:28:00Z" }
+    ]
+  },
+  "sellerData": {
+    "name": "AudioPlusIndia",
+    "age_days": 12,
+    "rating": 0,
+    "total_reviews": 0,
+    "return_policy_flags": ["no returns", "all sales final"]
+  },
+  "auditedAt": "2025-01-10T09:00:00Z"
+}

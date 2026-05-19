@@ -1,0 +1,42 @@
+services:
+  # ── Backend: Express API ────────────────────────────────────────────────────
+  - type: web
+    name: trustlens-backend
+    env: node
+    plan: free
+    rootDir: backend
+    buildCommand: npm install
+    startCommand: npm start
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: DEMO_MODE
+        value: false
+      # Set these manually in Render dashboard after first deploy
+      - key: APIFY_API_TOKEN
+        sync: false
+      - key: GROQ_API_KEY
+        sync: false
+      - key: GEMINI_API_KEY
+        sync: false
+      - key: TOGETHER_API_KEY
+        sync: false
+
+  # ── Frontend: Vite React SPA ────────────────────────────────────────────────
+  - type: web
+    name: trustlens-frontend
+    env: static
+    plan: free
+    rootDir: frontend
+    buildCommand: npm install && npm run build
+    staticPublishPath: dist
+    routes:
+      - type: rewrite
+        source: /*
+        destination: /index.html
+    envVars:
+      - key: VITE_API_URL
+        fromService:
+          name: trustlens-backend
+          type: web
+          envVarKey: RENDER_EXTERNAL_URL
